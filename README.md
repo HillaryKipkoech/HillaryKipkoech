@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Hillary, a software Engineer
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HillaryKipkoech)](https://git.io/streak-stats)
 <!--
 **HillaryKipkoech/HillaryKipkoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
