@@ -15,13 +15,11 @@
 
 ### 🌟 About Me
 
-- 👨‍💻 I’m a **Full-Stack Web Developer** specialized in **Laravel**, **Node.js**, and **JavaScript**.
-- 🌱 I’m currently learning **React**, **DevOps with Docker**, and **Tailwind CSS**.
+- 👨‍💻 I’m a **Software Developer** specialized in **Laravel**, **Node.js**, **PHP**,**Java**, **SpringBoot**, **Vue JS**, and **JavaScript**.
+- 🌱 I’m currently learning **React**, **DevOps with Docker**, and **Django**.
 - 👯 I’m looking to collaborate on **Laravel, PHP, or JavaScript projects**.
 - 💬 Ask me about **Laravel, PHP, JavaScript, or REST API development**.
-- 📫 Reach me via email at **kipkoechhillary85@gmail.com**
-- 📁 Portfolio: [Your Portfolio URL Here]
-- 📝 Blog: [https://blog.indepthresearch.org](https://blog.indepthresearch.org)
+- 📫 Reach me via email at **<a href="mailTo:kipkoechhillary85@gmail.com">Contact Me</a>**
 
 ---
 
@@ -46,7 +44,7 @@
 <p align="left">
   <!-- Back-end -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" height="40" alt="Laravel"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
