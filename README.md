@@ -1,15 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hillary Kipkoech</h1>
 <h3 align="left">🚀 Passionate Full-Stack Developer from Nairobi, Kenya</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hillarykipkoech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hillarykipkoech&theme=gruvbox" alt="GitHub Trophy" />
-  </a>
-</p>
 
 ---
 
@@ -22,6 +14,17 @@
 - 📫 Reach me via email at **<a href="mailTo:kipkoechhillary85@gmail.com">Contact Me</a>**
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hillarykipkoech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hillarykipkoech&theme=gruvbox" alt="GitHub Trophy" />
+  </a>
+</p>
+
+--- 
 
 ### 🌐 Connect with Me
 
